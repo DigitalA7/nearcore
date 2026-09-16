@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français sur nearcore : architecture du client NEAR, smart contracts, SDK, nœuds, état et sécurité pour les DApps. Voir [le sommaire](docs/fr/README.md).
+
 <br />
 <br />
 
